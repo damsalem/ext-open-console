@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "name": "Open Console",
+    "description": "Open The Chrome Console in 1 Click",
+    "version": "1.0.0",
+    "action": {
+        "default_popup": "popup.html"
+    },
+    "permissions": []
+}
